@@ -36,6 +36,7 @@ a:hover {
   margin: 40px auto;
 }
 
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
@@ -60,6 +61,15 @@ a:hover {
   border-radius: 4px;
   margin: 20px 0px;
   text-align: center;
+}
+
+.card-white li{
+  text-align: left;
+}
+.card-white p{
+  text-align: left;
+}
+
 }
 .img-circle {
   border-radius: 50%;
